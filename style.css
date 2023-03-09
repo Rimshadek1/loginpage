@@ -1,0 +1,70 @@
+.body{
+
+    background-size: 1400px 663px;
+    background-color: #282B36;
+}
+.login{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background-color: #1f222b;
+  border-radius: 30px;
+    margin-top: 201px;
+}
+.pic{
+    width: 21px;
+    height: auto;
+    margin: auto;
+    margin-left: 70px;
+    margin-top: 12px;
+}
+
+.text{
+    width: 68px;
+    height: 19px;
+   
+    margin-left: 101px;
+    margin-top: -33px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cmlogin{
+    color: rgb(212, 209, 209);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 42px;
+    margin-left: 51px;
+    font-size: small;
+    
+}
+.input1{
+    width: 120px;
+    background: transparent;
+    margin-top: -12px;
+    margin-left: 54px;
+    padding: 2px 40px;
+    border-color: transparent;
+}
+.input2{
+    width: 120px;
+    background: transparent;
+    margin-top: -12px;
+    margin-left: 54px;
+    padding: 2px 40px;
+    border-color: transparent;
+}
+.pict{
+    width: 36px;
+    background: transparent;
+    margin-top: 0px;
+    margin-left: 96px;
+}
+button :hover{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border-color: transparent;
+    margin-left: 93px;
+    margin-top: 18px;
+    /* size: 25px 40px; */
+    padding: 2px 13px;
+    cursor: pointer;
+}
